@@ -1,4 +1,4 @@
-# HamSpam
+# HamSpam (Transformer from Scratch)
 
 Spam emails, commonly known as junk emails, are unsolicited messages sent in bulk, often for advertising, phishing, or spreading malicious software. They clutter inboxes and can lead to harmful outcomes if not filtered properly. Spam detection is a crucial task in maintaining email security and user experience. Traditionally, spam filters have relied on rule-based approaches or simple machine learning classifiers like Naive Bayes or Support Vector Machines (SVM). However, with the growing complexity of spam messages, more advanced models are required to effectively classify emails as spam or ham (non-spam).
 
