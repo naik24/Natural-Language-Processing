@@ -37,4 +37,5 @@ The model was trained on a dataset of email messages and achieved `97%` accuracy
 ## Demo
 
 1. Clone this repository
-2. Run `python train.py` to train the model
+2. `pip install -r requirements.txt`
+3. Run `python train.py` to train the model
